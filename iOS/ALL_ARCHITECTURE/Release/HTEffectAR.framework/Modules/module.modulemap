@@ -1,0 +1,6 @@
+framework module HTEffectAR {
+  umbrella header "HTEffectAR.h"
+
+  export *
+  module * { export * }
+}
